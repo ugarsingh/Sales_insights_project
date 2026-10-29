@@ -56,3 +56,9 @@ DAX Measures
 Interactive Visualizations
       ↓
 Sales Insights Dashboard
+
+👨‍💻 Author
+
+Ugar Singh
+
+B.Tech Computer Science Engineering Student | Aspiring Data Analyst
